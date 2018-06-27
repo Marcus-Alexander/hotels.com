@@ -1,0 +1,27 @@
+#i {
+    background: #f54d3d;
+    color: white;
+}
+
+.parallax {
+    background: url(https://www.travelbybob.com/wp-content/uploads/2015/06/Riu-Palace-Jamaica-featured-Image.jpg);
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    background: white;
+    position: sticky;
+}
+h3 {
+    background: #f54d3d;
+    color: white;
+}
+
+.navbar-brand {
+    background: #f54d3d;
+    color: white !important;
+}
